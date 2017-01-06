@@ -1,5 +1,11 @@
 # scrabble_board
 
+![scrabble_board_pic](board.jpg "CNC Scrabble Board")
+
+Find the instructions for making this board at:
+
+
+
 CAD files:
 * scrabble_board.iges/f3d defines the main game board
 * base_plate.iges/f3d defines the plywood base that holds the turntable
