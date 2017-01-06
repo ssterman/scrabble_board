@@ -2,7 +2,7 @@
 
 ![scrabble_board_pic](scrabble.jpg "CNC Scrabble Board")
 
-Find the instructions for making this board at:
+Find the instructions for making this board at: http://www.instructables.com/id/Hardwood-CNC-Scrabble-Board/
 
 
 
