@@ -1,6 +1,6 @@
 # scrabble_board
 
-![scrabble_board_pic](board.jpg "CNC Scrabble Board")
+![scrabble_board_pic](scrabble.jpg "CNC Scrabble Board")
 
 Find the instructions for making this board at:
 
