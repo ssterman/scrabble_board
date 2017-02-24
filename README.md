@@ -11,8 +11,8 @@ CAD files:
 * base_plate.iges/f3d defines the plywood base that holds the turntable
 
 Laser cutting:
-* pattern insets.ai defines inlays for the special tiles
-* tiles.ai defines the letter tiles 
+* pattern insets.ai/.dxf defines inlays for the special tiles
+* tiles.ai defines/.dxf the letter tiles 
 
 GCode:
 * walnut_gcode folder holds gcode for cutting the main board in ~.8" hardwood
